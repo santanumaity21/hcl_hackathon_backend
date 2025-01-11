@@ -1,6 +1,0 @@
-p, Doctor, appointments, read
-p, Doctor, availability, write
-p, Patient, appointments, create
-
-g, user:1, Doctor
-g, user:2, Patient
